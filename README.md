@@ -267,7 +267,7 @@ fungsi dari syntax tersebut untuk memanggil fungsi pada sub menu yaitu `def` syn
 
 5. Jika semua sudah, maka mari coba menjalankan file python `open`
 
-![](Gambar/Tata_runas.png)
+![](Gambar/tata_runas.png)
 
 <p align="center">
                  Tata cara Fungsi 4.5
